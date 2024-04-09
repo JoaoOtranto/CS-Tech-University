@@ -767,7 +767,7 @@ section,
 # Hero Section
 --------------------------------------------------------------*/
 .hero {
-  background-image: url(/assets/img/background-intro-2.jpg);
+  background-image: url(../img/background-intro-2.jpg);
   background-blend-mode: darken;
   background-repeat: no-repeat;
   background-size: cover;

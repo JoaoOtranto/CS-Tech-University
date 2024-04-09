@@ -1,3 +1,6 @@
+Template criada com Bootstrap, atualmente sendo otimizada para utilização em projeto interno educacional da Kiwify.
+
+
 Thanks for downloading this template!
 
 Template Name: Ninestars
